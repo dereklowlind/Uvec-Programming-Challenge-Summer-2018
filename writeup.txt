@@ -1,0 +1,16 @@
+Planning process
+In order to make a functioning prototype in the time provided we abstracted the problem to a simpler form. The number of days from Sept 10 to Nov 30 is 81, or 4 days more than 11 weeks. We decided for simplicity of implementation to leave the last 4 days free from any assignments, labs, or midterms. The last 4 days would also be nice as a course wrap up and to resolve any left over work due to unforeseen conflicts. Finals will be treated as a separate problem for now as the time provided does not overlap. 
+
+
+
+Work plan
+-use Java
+-Get input data into an array
+-Create the finals schedule
+-Create in term work schedule
+
+Work plan change log
+-having issues with Java switching to python
+
+
+
